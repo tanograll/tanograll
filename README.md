@@ -3,7 +3,7 @@
 <!--
 **tanograll/tanograll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Alguma coisas sobre min:
 
 - 🔭 I’m currently working on VS...
 - 🌱 I’m currently learning progammation Visual studio...
